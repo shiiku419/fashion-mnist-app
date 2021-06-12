@@ -3,6 +3,7 @@ gunicorn==20.1.0
 h5py==3.1.0
 Jinja2==2.11.2
 Keras==2.4.3
+tensorflow
 numpy
 Pillow
 Werkzeug==1.0.1
