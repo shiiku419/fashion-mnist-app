@@ -3,4 +3,4 @@ A Flask application that provides keras models trained with the Fashion MNIST Da
 The model classifies the uploaded images and outputs the results.
 
 # app link
-<https://fashion-classy.herokuapp.com>
+~~<https://fashion-classy.herokuapp.com>~~
